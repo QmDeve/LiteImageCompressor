@@ -58,7 +58,7 @@ Add in the build.gradle of the module:
 
 ```gradle
 dependencies {
-   implementation 'com.github.QmDeve:LiteImageCompressor:v1.0.0'
+   implementation 'com.github.QmDeve:LiteImageCompressor:v1.0.1'
 }
 ```
 
