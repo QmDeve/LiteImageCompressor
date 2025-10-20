@@ -151,7 +151,7 @@ LiteImageCompressor.builder()
         .compressAsync("image.png");
 ```
 
-### Pay attention to thoughts
+### Note
 1. **Set an appropriate threshold**: Choose an appropriate compression threshold based on application requirements
 2. **Mass Balance**:`80-90%`The quality usually provides a good balance between size and quality
 3. **Memory Management**: Recycle in time when no longer needed`bitmap`
