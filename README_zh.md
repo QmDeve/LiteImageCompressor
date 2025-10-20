@@ -1,12 +1,12 @@
 
 <div align="center">
+  轻量级且易于使用的 Android 图片压缩库，旨在压缩图片的同时保持画质，并提供灵活的配置选项。
+  <br>
+  <br>
   <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="Apache"/>
   <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=java" alt="Java 21"/>
   <img src="https://img.shields.io/badge/Android-7.0%2B-brightgreen.svg" alt="Android 7"/>
   <img src="https://jitpack.io/v/QmDeve/LiteImageCompressor.svg" alt="Jitpack 7"/>
-
-  <br>
-  轻量级且易于使用的 Android 图片压缩库，旨在压缩图片的同时保持画质，并提供灵活的配置选项。
   
 </div>
 
@@ -152,3 +152,7 @@ LiteImageCompressor.builder()
 3. **内存管理**: 不再需要时及时回收 `bitmap`
 4. **错误处理**: 在回调中实现适当的错误处理
 5. **详细用法请参考Demo**
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=QmDeve/LiteImageCompressor&type=date&legend=bottom-right)](https://www.star-history.com/#QmDeve/LiteImageCompressor&type=date&legend=bottom-right)
