@@ -5,7 +5,7 @@
 <br>
 <br>
 <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="Apache"/>
-<img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=java" alt="Java 21"/>
+<img src="https://img.shields.io/badge/Java-11-orange?style=for-the-badge&logo=java" alt="Java 11"/>
 <img src="https://img.shields.io/badge/Android-7.0%2B-brightgreen.svg" alt="Android 7"/>
 <img src="https://jitpack.io/v/QmDeve/LiteImageCompressor.svg" alt="Jitpack 7"/>
 
