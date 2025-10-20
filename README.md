@@ -12,7 +12,7 @@ A lightweight and easy-to-use Android image compression library designed to comp
 <br>
 <br>
   
-  [简体中文](https://github.com/QmDeve/QmDataBase/blob/master/README_zh.md)
+  [简体中文](https://github.com/QmDeve/LiteImageCompressor/blob/master/README_zh.md)
   
   </div>
 
