@@ -1,6 +1,6 @@
 
 <div align="center">
-A lightweight and easy-to-use Android image compression library designed to compress images while maintaining image quality and provide flexible configuration options.
+  A lightweight and easy-to-use Android image compression library designed to compress images while maintaining image quality and provide flexible configuration options.
 
 <br>
 <br>
@@ -65,7 +65,7 @@ dependencies {
 ---
 
 ## Quick to use
-### Synchronous call
+### Synchronous
 
 ```java
 CompressResult result = LiteImageCompressor.builder()
@@ -80,7 +80,7 @@ if (result.isSuccess()) {
 }
 ```
 
-### Asynchronous call
+### Asynchronous
 ```java
 LiteImageCompressor.builder()
     .setMaxSize(1000)
