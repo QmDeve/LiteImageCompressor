@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LiteImageCompressor</string>
+    <string name="a1">Storage permission is required to select images</string>
+    <string name="a2">Compressing…</string>
+    <string name="a3">Failed to load image</string>
+    <string name="a4">Failed to load image: </string>
+    <string name="a5">Dimensions: %d x %d\nFile size: %s KB</string>
+    <string name="a6">Please select an image first</string>
+    <string name="a7">Compressing…</string>
+    <string name="a8">Compression failed: </string>
+    <string name="a9">Please enter a valid threshold</string>
+    <string name="b1">Original image size: %s KB\n</string>
+    <string name="b2">Compressed size: %s KB\n</string>
+    <string name="c1">Select Image</string>
+    <string name="c2">Compression Threshold (KB):</string>
+    <string name="c3">Compression Quality:</string>
+    <string name="c4">Sync Compression</string>
+    <string name="c5">Async Compression</string>
+    <string name="c6">Original Image Info:</string>
+    <string name="c7">No image selected</string>
+    <string name="c8">Compression Result:</string>
+    <string name="c9">Waiting for compression…</string>
+    <string name="b5">Original Preview</string>
+    <string name="b6">Compressed Preview</string>
+</resources>

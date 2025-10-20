@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LiteImageCompressor</string>
+    <string name="a1">需要存储权限来选择图片</string>
+    <string name="a2">等待压缩…</string>
+    <string name="a3">无法加载图片</string>
+    <string name="a4">加载图片失败: </string>
+    <string name="a5">尺寸: %d x %d\n文件大小: %s KB</string>
+    <string name="a6">请先选择图片</string>
+    <string name="a7">压缩中…</string>
+    <string name="a8">压缩失败: </string>
+    <string name="a9">请输入有效的阈值</string>
+    <string name="b1">原图片大小: %s KB\n</string>
+    <string name="b2">压缩后大小: %s KB\n</string>
+    <string name="c1">选择图片</string>
+    <string name="c2">压缩阈值(KB):</string>
+    <string name="c3">压缩质量:</string>
+    <string name="c4">同步压缩</string>
+    <string name="c5">异步压缩</string>
+    <string name="c6">原图信息:</string>
+    <string name="c7">未选择图片</string>
+    <string name="c8">压缩结果:</string>
+    <string name="c9">等待压缩…</string>
+    <string name="b5">原图预览</string>
+    <string name="b6">压缩后预览</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.AndroidImageCompressor" parent="Theme.Material3.DynamicColors.Dark.NoActionBar">
+    </style>
+</resources>
