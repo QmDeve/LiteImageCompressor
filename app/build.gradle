@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'com.qmdeve.liteimagecompressor.demo'
-    compileSdk 36
+    compileSdkVersion 36
 
     defaultConfig {
         applicationId "com.qmdeve.liteimagecompressor.demo"
@@ -23,8 +23,8 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_21
-        targetCompatibility JavaVersion.VERSION_21
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
     }
 }
 
